@@ -5,8 +5,7 @@
 #footer{}
 h2{font-size: 2rem; color: #fff; font-weight: 500;margin-bottom: 3rem;}
 .view_more{font-size: 0.85rem; color: #F38486;font-weight: 300;}
-
-#nav ul{margin-top: 20px; float: left;}
+#nav ul{margin-top: 15px;}
 /************ sec1 ************/
 #sec1{
     width: 100%;
