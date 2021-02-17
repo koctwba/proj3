@@ -181,7 +181,8 @@ button{outline:0; background-color: transparent; border:none;}
                   margin:0 auto;
                   margin-top: 2rem;
             }
-      #nav .logo img{width: 100%;}
+      #nav .logo img{width: 100%;
+            margin-top: 25px;}
       .finder{display: none;}
       #nav .mo_nav_btn{
             display: block;
@@ -253,4 +254,31 @@ button{outline:0; background-color: transparent; border:none;}
       #footer .footer_r button{
             /*margin-bottom: 1rem;
       }*/
+      #footer .footer_l {
+            float: none;
+            width: 100%;
+            text-align: center;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+      #footer .footer_l .logo {
+            display: block;
+            padding-top: 4rem;
+            padding-bottom: 2rem;
+        }
+      #footer .footer_l p {
+            font-size: 0.69rem;
+            color: #cecece;
+            line-height: 1.5rem;
+            margin-top: 2rem;
+            margin-bottom: 2rem;
+            margin-left: 0;
+        }
+      #footer .footer_r {
+            float: none;
+            width: 100%;
+            text-align: center;
+            margin-top: 0;
+            padding-bottom: 1rem;
+        }
 }
